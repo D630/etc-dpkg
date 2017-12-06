@@ -1,8 +1,4 @@
 9base
-libpnglite-dev
-net-stat
-sysfsutils
-rsync
 abook
 alpine-pico
 arc
@@ -16,6 +12,7 @@ autoconf
 autopoint
 avahi-discover
 bibutils
+borgbackup
 bpm-tools
 bsdcpio
 bsdtar
@@ -77,6 +74,7 @@ liblocal-lib-perl
 liblz4-tool
 libnotify-bin
 libnotify-dev
+libpnglite-dev
 libquicktime2
 libxss-dev
 links2
@@ -99,10 +97,10 @@ mtpfs
 myspell-de-de
 mythes-de
 mythes-en-us
+net-stat
 netcat-openbsd
 newsbeuter
 nomarch
-obnam
 oggvideotools
 oggz-tools
 openssh-client
@@ -125,6 +123,7 @@ ripmime
 rlfe
 rlwrap
 rpm
+rsync
 rsyslog-gnutls
 rzip
 screen
@@ -137,6 +136,7 @@ ssh-askpass
 stow
 sudo
 symlinks
+sysfsutils
 tclreadline
 tcpdump
 telnet-ssl
